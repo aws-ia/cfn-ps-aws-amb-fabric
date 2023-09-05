@@ -1,5 +1,5 @@
 project:
-  name: quickstart-aws-amb-fabric
+  name: cfn-ps-aws-amb-fabric
   owner: quickstart@amazon.com
   package_lambda: false
   regions:
