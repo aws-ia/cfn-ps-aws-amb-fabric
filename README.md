@@ -1,4 +1,8 @@
 # quickstart-aws-amb-fabric
+## Deprecation Notice
+
+:x: This repository is subject to deprecation in Q4 2024. For more details, [please review this announcement](https://github.com/aws-ia/.announcements/issues/1). 
+
 ## Amazon Managed Blockchain deployment
 
 This Quick Start automatically deploys an Amazon Managed Blockchain network that spans two Availability Zones in about 15 minutes. The Quick Start is for IT infrastructure architects, administrators, DevOps professionals, chaincode developers, or business users who want to implement a Hyperledger Fabric node deployment on Amazon Managed Blockchain and deploy a decentralized application on the AWS Cloud.
